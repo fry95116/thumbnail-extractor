@@ -1,0 +1,22 @@
+{
+  "name": "thumbnail-extractor",
+  "version": "1.0.0",
+  "description": "extract thumbnail from image files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fry95116/thumbnail-extractor.git"
+  },
+  "author": "tastycarb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fry95116/thumbnail-extractor/issues"
+  },
+  "homepage": "https://github.com/fry95116/thumbnail-extractor#readme",
+  "dependencies": {
+    "stream-consume-promise": "^1.0.3"
+  }
+}
