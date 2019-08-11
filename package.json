@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/fry95116/thumbnail-extractor#readme",
   "dependencies": {
-    "stream-consume-promise": "^1.0.3"
+    "async-file": "^2.0.2",
+    "get-stream": "^5.1.0",
+    "stream-consume-promise": "^1.0.3",
+    "yauzl-promise": "^2.1.3"
   }
 }
